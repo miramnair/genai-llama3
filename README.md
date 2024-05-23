@@ -1,4 +1,4 @@
-# genai-llama3
+# GENAI-LLAMA3
 Interactive AI-Powered Blog Article Generator Using Streamlit and LLAMA
 
 **Code Overview:**
