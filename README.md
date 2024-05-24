@@ -1,5 +1,5 @@
 # GENAI-LLAMA3
-Interactive AI-Powered Blog Generator Using Streamlit and LLAMA
+Interactive AI-Powered Article Generator Using Streamlit and LLAMA
 
 **Code Overview:**
 The application defines a function getLLAMAresponse that interacts with the LLAMA model, processes user inputs, and generates the desired text. The Streamlit interface collects the necessary inputs and displays the generated article.
